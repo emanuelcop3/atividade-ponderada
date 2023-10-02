@@ -26,7 +26,7 @@ Concluindo, acredito que o aprendizado contínuo é fundamental para garantir qu
 
 (2) Autor(es). Título do artigo. Título do Periódico, v. volume, n. número, p. páginas, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-IEEE Xplore. Uma Visão Geral sobre Aprendizado de Mudança de Conceito. IEEE Transactions on [Nome do Periódico], v. XX, n. XX, p. XXX-XXX, Mês. Ano. Disponível em: <https://ieeexplore.ieee.org/document/8571222>. Acesso em: dia mês ano.
+IWASHITA, Adriana Sayuri; PAPA, Joao Paulo. An overview on concept drift learning. IEEE access, v. 7, p. 1532-1547, 2018.
 
 (3) Autor(es). Título do artigo. ArXiv, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
