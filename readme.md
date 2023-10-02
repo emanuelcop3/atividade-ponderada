@@ -24,39 +24,34 @@ Concluindo, acredito que o aprendizado contínuo é fundamental para garantir qu
 
 ## Referências
 
-(2) Autor(es). Título do artigo. Título do Periódico, v. volume, n. número, p. páginas, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
+(1) Autor(es). Título do artigo. Título do Periódico, v. volume, n. número, p. páginas, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
 IWASHITA, Adriana Sayuri; PAPA, Joao Paulo. An overview on concept drift learning. IEEE access, v. 7, p. 1532-1547, 2018.
 
-(3) Autor(es). Título do artigo. ArXiv, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
+(2) Autor(es). Título do artigo. ArXiv, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
 CASADO, Fernando E. et al. Concept drift detection and adaptation for federated and continual learning. Multimedia Tools and Applications, p. 1-23, 2022.
 
 
-(4) Autor(es). Título do artigo. Nome da Plataforma, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
+(3) Autor(es). Título do artigo. Nome da Plataforma, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-Autores do artigo. Descobrindo a Inteligência Artificial. ResearchGate. Disponível em: <https://www.researchgate.net/publication/354764688_Continuous_detection_of_concept_drift_in_industrial_cyber-physical_systems_using_closed_loop_incremental_machine_learning/fulltext/614b69a93c6cb310698748b3/Continuous-detection-of-concept-drift-in-industrial-cyber-physical-systems-using-closed-loop-incremental-machine-learning.pdf>. Acesso em: dia mês ano.
-
-(5) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
+JAYARATNE, Dinithi et al. Continuous detection of concept drift in industrial cyber-physical systems using closed loop incremental machine learning. Discover Artificial Intelligence, v. 1, p. 1-13, 2021.
 
 
-Autor(es) do artigo. Metodologia Ágil: Entenda O Que É e Quais São As 8 Mais Utilizadas. Neil Patel, Disponível em: <https://neilpatel.com/br/blog/metodologia-agil/>. Acesso em: dia mês ano.
+(4) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-(6) Autor(es). Título do guia. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
+
+RODRIGUES, Ivete; RABETTI, Danilo. Gestão adaptativa de projetos: um levantamento dos artefatos mais utilizados para gerenciar o escopo do projeto. Gestão e Projetos: GeP, v. 12, n. 1, p. 95-122, 2021.
+
+
+(5) Autor(es). Título do guia. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
 
 Autor(es) do guia. 5 ferramentas ágeis e como atingir a alta performance [GUIA]. Disponível em: <URL>. Acesso em: dia mês ano.
 
-(7) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
-
-Autor(es) do artigo. O que são as ferramentas ágeis? - Indústria S.A.. Disponível em: <https://industriasa.com.br/o-que-sao-as-ferramentas-ageis/>. Acesso em: dia mês ano.
-
-(8) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
+(6) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
 
-Autor(es) do artigo. Metodologias ágeis: o que são, tipos e principais vantagens. FIA.com.br, Disponível em: <https://fia.com.br/blog/metodologias-ageis/>. Acesso em: dia mês ano.
-
-(9) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
+SILVA, Vinicius Inácio da et al. Análise de Metodologias Ágeis de Desenvolvimento de Software: As vantagens e desvantagens do Scrum e Extreme Programming (XP). 2022.
 
 
-Autor(es) do artigo. Métodos Ágeis: Processo Ágil e Ferramentas de Suporte - DevMedia. Disponível em: <https://www.devmedia.com.br/metodos-ageis-processo-agil-e-ferramentas-de-suporte/29992>. Acesso em: dia mês ano.
