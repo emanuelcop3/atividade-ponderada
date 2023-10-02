@@ -30,7 +30,8 @@ IWASHITA, Adriana Sayuri; PAPA, Joao Paulo. An overview on concept drift learnin
 
 (3) Autor(es). Título do artigo. ArXiv, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-Autor(es) do artigo. Detecção e Adaptação de Mudança de Conceito para Aprendizado Federado e Contínuo. ArXiv, maio 2021. Disponível em: <https://arxiv.org/abs/2105.13309>. Acesso em: dia mês ano.
+CASADO, Fernando E. et al. Concept drift detection and adaptation for federated and continual learning. Multimedia Tools and Applications, p. 1-23, 2022.
+
 
 (4) Autor(es). Título do artigo. Nome da Plataforma, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
