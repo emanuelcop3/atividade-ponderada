@@ -26,48 +26,36 @@ Concluindo, acredito que o aprendizado contínuo é fundamental para garantir qu
 
 (2) Autor(es). Título do artigo. Título do Periódico, v. volume, n. número, p. páginas, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-Exemplo:
-
 IEEE Xplore. Uma Visão Geral sobre Aprendizado de Mudança de Conceito. IEEE Transactions on [Nome do Periódico], v. XX, n. XX, p. XXX-XXX, Mês. Ano. Disponível em: <https://ieeexplore.ieee.org/document/8571222>. Acesso em: dia mês ano.
 
 (3) Autor(es). Título do artigo. ArXiv, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
-
-Exemplo:
 
 Autor(es) do artigo. Detecção e Adaptação de Mudança de Conceito para Aprendizado Federado e Contínuo. ArXiv, maio 2021. Disponível em: <https://arxiv.org/abs/2105.13309>. Acesso em: dia mês ano.
 
 (4) Autor(es). Título do artigo. Nome da Plataforma, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-Exemplo:
-
 Autores do artigo. Descobrindo a Inteligência Artificial. ResearchGate. Disponível em: <https://www.researchgate.net/publication/354764688_Continuous_detection_of_concept_drift_in_industrial_cyber-physical_systems_using_closed_loop_incremental_machine_learning/fulltext/614b69a93c6cb310698748b3/Continuous-detection-of-concept-drift-in-industrial-cyber-physical-systems-using-closed-loop-incremental-machine-learning.pdf>. Acesso em: dia mês ano.
 
 (5) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-Exemplo:
 
 Autor(es) do artigo. Metodologia Ágil: Entenda O Que É e Quais São As 8 Mais Utilizadas. Neil Patel, Disponível em: <https://neilpatel.com/br/blog/metodologia-agil/>. Acesso em: dia mês ano.
 
 (6) Autor(es). Título do guia. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-Exemplo:
 
 Autor(es) do guia. 5 ferramentas ágeis e como atingir a alta performance [GUIA]. Disponível em: <URL>. Acesso em: dia mês ano.
 
 (7) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-Exemplo:
-
 Autor(es) do artigo. O que são as ferramentas ágeis? - Indústria S.A.. Disponível em: <https://industriasa.com.br/o-que-sao-as-ferramentas-ageis/>. Acesso em: dia mês ano.
 
 (8) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-Exemplo:
 
 Autor(es) do artigo. Metodologias ágeis: o que são, tipos e principais vantagens. FIA.com.br, Disponível em: <https://fia.com.br/blog/metodologias-ageis/>. Acesso em: dia mês ano.
 
 (9) Autor(es) do artigo. Título do artigo. Nome do Site, Mês. Ano. Disponível em: <URL>. Acesso em: dia mês ano.
 
-Exemplo:
 
 Autor(es) do artigo. Métodos Ágeis: Processo Ágil e Ferramentas de Suporte - DevMedia. Disponível em: <https://www.devmedia.com.br/metodos-ageis-processo-agil-e-ferramentas-de-suporte/29992>. Acesso em: dia mês ano.
